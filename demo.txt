@@ -1,1 +1,2 @@
 <h2>Hello from devops</h2>
+<p>Added content from Singapore region</p>
